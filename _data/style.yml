@@ -2,6 +2,7 @@
 #highlight: "#54bfff"
 #white: "#FF0000"
 #black: "#000"
+highlight: '#8F5166'
 
 #Image Customization
 header-image: '../img/resumo-fale-conosco.jpeg'
