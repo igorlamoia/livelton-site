@@ -5,7 +5,7 @@
 highlight: '#8F5166'
 
 #Image Customization
-header-image: '../img/resumo-fale-conosco.jpeg'
-contact-image: '../img/contact.png'
+header-image: '../img/sofa-1.jpg'
+contact-image: '../img/resumo-fale-conosco.jpeg'
 #Font Awesome icon for portfolio grid when an item is hovered over
 #portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
