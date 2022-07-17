@@ -1,13 +1,13 @@
 ---
 title: Painel
 subtitle: Descrição do painel
-image: '../img/painel.jpeg'
+image: './assets/img/portfolio/painel.jpeg'
 alt: Keep Exploring
 
 caption:
   title: Painel para TV
   subtitle: Descrição do painel
-  thumbnail: '../img/painel.jpeg'
+  thumbnail: './assets/img/portfolio/painel.jpeg'
 ---
 
 Painel para sala

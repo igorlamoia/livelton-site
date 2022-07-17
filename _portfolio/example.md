@@ -2,13 +2,13 @@
 #what displays when the item is clicked:
 title: Sofá
 subtitle: Descrição detalhada do sofá
-image: '../img/sofa-1.jpg' #main image, can be a link or a file in assets/img/portfolio
+image: '../assets/img/portfolio/sofa-1.jpg' #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 caption: #what displays in the portfolio grid:
   title: Sofá
   subtitle: Confortável e elegante
-  thumbnail: '../img/sofa-1.jpg'
+  thumbnail: '../assets/img/portfolio/sofa-1.jpg'
 ---
 
 Detalhes do **sofá**
