@@ -1,13 +1,13 @@
 ---
 title: Cozinha
 subtitle: Móveis
-image: '../assets/img/cozinha.jpeg'
+image: '../img/cozinha.jpeg'
 alt: Cozinha
 
 caption:
   title: Cozinha
   subtitle: Móveis
-  thumbnail: '../assets/img/cozinha.jpeg'
+  thumbnail: '../img/cozinha.jpeg'
 ---
 
 Adicionar descrição aqui falando sobre o produto
