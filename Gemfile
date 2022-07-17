@@ -2,6 +2,7 @@
 source "https://rubygems.org"
 
 gem "jekyll-agency"
+gem "agency-jekyll-theme"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
