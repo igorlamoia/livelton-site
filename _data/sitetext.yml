@@ -35,32 +35,32 @@ en: &DEFAULT_EN
         role: 'Lead Designer'
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://api.whatsapp.com/send/?phone=553299996329&type=phone_number&text=Oi%2C%20Livelton!%20Vim%20pelo%20site%2C%20Tudo%20bem%3F&app_absent=0
+            icon: fab fa-whatsapp
+          - url: https://www.facebook.com/livelton.pedro.1
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.instagram.com/pedrolivelton/
+            icon: fab fa-instagram
       - name: 'Larry Parker'
         role: 'Lead Marketer'
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://api.whatsapp.com/send/?phone=553299996329&type=phone_number&text=Oi%2C%20Livelton!%20Vim%20pelo%20site%2C%20Tudo%20bem%3F&app_absent=0
+            icon: fab fa-whatsapp
+          - url: https://www.facebook.com/livelton.pedro.1
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.instagram.com/pedrolivelton/
+            icon: fab fa-instagram
       - name: 'Diana Perterson'
         role: 'Lead Developer'
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://api.whatsapp.com/send/?phone=553299996329&type=phone_number&text=Oi%2C%20Livelton!%20Vim%20pelo%20site%2C%20Tudo%20bem%3F&app_absent=0
+            icon: fab fa-whatsapp
+          - url: https://www.facebook.com/livelton.pedro.1
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.instagram.com/pedrolivelton/
+            icon: fab fa-instagram
 
   contact:
     # title: 'Contact Us'
@@ -80,7 +80,7 @@ en: &DEFAULT_EN
   footer:
     legal: 'Privacy Policy'
     social:
-      - url: https://api.whatsapp.com/send/?phone=553299996329&text&type=phone_number&text=Oi%2C%20Livelton!%20Vim%20pelo%20site%2C%20Tudo%20bem%3F&app_absent=0
+      - url: https://api.whatsapp.com/send/?phone=553299996329&type=phone_number&text=Oi%2C%20Livelton!%20Vim%20pelo%20site%2C%20Tudo%20bem%3F&app_absent=0
         icon: 'fab fa-whatsapp'
       - url: https://www.facebook.com/livelton.pedro.1
         icon: 'fab fa-facebook-f'
