@@ -41,8 +41,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://www.instagram.com/pedrolivelton/
             icon: fab fa-instagram
-      - name: 'Larry Parker'
-        role: 'Lead Marketer'
+      - name: 'Livelton Pedro'
+        role: 'contatos:'
         image: assets/img/team/2.jpg
         social:
           - url: https://api.whatsapp.com/send/?phone=553299996329&type=phone_number&text=Oi%2C%20Livelton!%20Vim%20pelo%20site%2C%20Tudo%20bem%3F&app_absent=0
