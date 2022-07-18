@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       section: about
     # - title: 'Linha do Tempo'
     #   section: timeline
-    - title: 'Time'
+    - title: 'Vendedores'
       section: team
     - title: 'Contato'
       section: contact
