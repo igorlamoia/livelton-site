@@ -33,7 +33,7 @@ en: &DEFAULT_EN
     people:
       - name: 'Kay Garland'
         role: 'Lead Designer'
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://api.whatsapp.com/send/?phone=553299996329&type=phone_number&text=Oi%2C%20Livelton!%20Vim%20pelo%20site%2C%20Tudo%20bem%3F&app_absent=0
             icon: fab fa-whatsapp
@@ -53,7 +53,7 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
       - name: 'Diana Perterson'
         role: 'Lead Developer'
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://api.whatsapp.com/send/?phone=553299996329&type=phone_number&text=Oi%2C%20Livelton!%20Vim%20pelo%20site%2C%20Tudo%20bem%3F&app_absent=0
             icon: fab fa-whatsapp
